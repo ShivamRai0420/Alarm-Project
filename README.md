@@ -1,2 +1,2 @@
 # Project1
-college proj
+College Project for Daily Routine by using HTML, CSS and JavaScript.
